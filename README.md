@@ -4,7 +4,7 @@
 
 ## 🏢 Employee Record
 **Employee:** André Rogério (TheyDreez)  
-**Department:** IT & Solutions Support  
+**Department:** IT  
 **Branch:** Scranton (Remote)  
 **Current Role:** IT Analyst  
 **Focus:** Application Support / IT Solutions / Automation / Software Engineering  
@@ -78,3 +78,4 @@ graph TD
       Backend -.-> Zod[Zod Validation]
     end
 ```
+
